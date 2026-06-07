@@ -2,124 +2,158 @@
 
 # 🦈 SHARK REPO
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Shark+Repo!;Fast+%F0%9F%92%A8+Powerful+%F0%9F%94%A5+Smart+%F0%9F%A7%A0;Dive+Into+The+Ocean+Of+Code+%F0%9F%8C%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Shark+Repo!;Built+by+GurmanSingh7;Fast+%F0%9F%92%A8+Powerful+%F0%9F%94%A5+Smart+%F0%9F%A7%A0;Dive+Into+The+Ocean+Of+Code+%F0%9F%8C%8A" alt="Typing SVG" />
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljcWt2MmdsNmVzMzF6djFjM3A4dTF4YWJ6cGFhNGN2dnRxdW4zYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="450"/>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GurmanSingh7&label=Ocean+Visitors&color=00cfff&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌊 About Shark Repo
+# 🌊 About Shark Repo
 
 ```yaml
-Name: Shark Repo
-Type: Awesome Project
-Mission: Swim Faster Than Bugs 🐛
-Language: Multi-Tech
+Project: Shark Repo
+Creator: GurmanSingh7
+Theme: Ocean + Sharks
 Status: Active 🚀
+Mission: Build Powerful Open Source Projects
 ```
 
 ---
 
-## 🦈 Features
+# 🦈 Features
 
-✨ Lightning Fast
+✨ Modern Design
 
-🌊 Clean Architecture
+⚡ High Performance
 
-⚡ Optimized Performance
+🌊 Ocean Inspired UI
 
-🔒 Secure Design
+🔒 Secure & Reliable
 
 📱 Responsive
 
-🎯 Easy To Use
+🚀 Easy Deployment
+
+🎯 Developer Friendly
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode"/>
 
 </div>
 
 ---
 
-## 🐋 Ocean Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GurmanSingh7&show_icons=true&theme=tokyonight&border_radius=15"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GurmanSingh7&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🦈 Contribution Flow
+# 🌊 Contribution Journey
 
-```text
-      🌊 Idea
-         │
-         ▼
-     💻 Code
-         │
-         ▼
-      🔥 Commit
-         │
-         ▼
-      🚀 Push
-         │
-         ▼
-     🎉 Deploy
+```mermaid
+flowchart LR
+
+A[💡 Idea] --> B[💻 Code]
+B --> C[🔥 Commit]
+C --> D[🚀 Push]
+D --> E[🎉 Deploy]
+E --> F[🦈 Success]
 ```
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-## 🌊 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Shark+Visitors&color=00cfff&style=for-the-badge"/>
-
-</p>
-
----
-
-## 🦈 Animated Wave Footer
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0055FF&height=180&section=footer"/>
+# 📈 Activity Graph
 
 <div align="center">
 
-### ⭐ If you like Shark Repo, give it a Star!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=react-dark&hide_border=true"/>
 
-🌊 Keep Swimming • Keep Coding • Keep Winning 🦈
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GurmanSingh7&theme=algolia&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌊 Ocean Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🦈 Repository Status
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/GurmanSingh7/Shark-Repo?style=for-the-badge&color=00cfff)
+
+![Forks](https://img.shields.io/github/forks/GurmanSingh7/Shark-Repo?style=for-the-badge&color=0088ff)
+
+![Issues](https://img.shields.io/github/issues/GurmanSingh7/Shark-Repo?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/GurmanSingh7/Shark-Repo?style=for-the-badge)
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/GurmanSingh7">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks For Visiting Shark Repo
+
+### 🦈 Swim Through Code • Hunt Bugs • Build Cool Stuff
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:0044FF&height=200&section=footer"/>
 
 </div>
