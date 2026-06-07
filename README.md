@@ -2,7 +2,7 @@
 
 update 1 
 update 2    
-
+  
 # 🦈 SHARK REPO
 
 <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=35&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Shark+Repo!;Built+by+GurmanSingh7;Fast+%F0%9F%92%A8+Powerful+%F0%9F%94%A5+Smart+%F0%9F%A7%A0;Dive+Into+The+Ocean+Of+Code+%F0%9F%8C%8A" alt="Typing SVG" />
