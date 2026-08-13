@@ -95,7 +95,7 @@ E --> F[🦈 Success]
 # 📈 Activity Graph
 
 <div align="center">
-
+    
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GurmanSingh7&theme=react-dark&hide_border=true"/>
 
 </div>
